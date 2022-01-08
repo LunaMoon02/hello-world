@@ -1,2 +1,2 @@
 # hello-world
-this is a tet file.  i am doing full stack course.  
+this is a test file.  i am doing full stack course.  
